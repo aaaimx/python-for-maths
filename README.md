@@ -43,9 +43,6 @@
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Credits
-- **A template to make good README.md** - _Base template_ - [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-
-## Referencias
 
 - **Notebooks de los tutoriales sobre Python del canal de Youtube.** - _jltabara_ - [Python](https://github.com/jltabara/Python).
    
