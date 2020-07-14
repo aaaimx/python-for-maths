@@ -14,58 +14,26 @@
 </p>
 <!-- end banner -->
 
-# Project Title
+# Python introductory with Maths examples
 
-One Paragraph of project description goes here. This is a template for organization repositories, set your own stuff.
+## Topics
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites 📋
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
-## Deployment 📦
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://www.aaaimx.org/cod) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+1. Python como calculadora
+2. La biblioteca MATH
+3. Fracciones
+4. Potencias y radicales
+5. Polinomios
+6. Ecuaciones y sistemas
+7. Representación de funciones
+8. Numeros complejos
+9.  Logaritmos y Trigonometria con Sympy
+10. Limites
+11. Derivadas
+12. Integrales
+13. Vectores
+14. Matrices y sistemas
+15. Factorización de matrices
+16. Transformadas de Laplace
 
 ## Future work 🚀
 
@@ -79,20 +47,11 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Referencias
 
-1. Bradley, T. (2013) [El Hacker Cívico: Civic-Minded Techies Gain Sway With Government in Mexico and Beyond](http://www.huffingtonpost.com/theresa-bradley/el-hacker-civico-how-civi_b_4334088.html). *The Huffington Post*.
-2. Bracy, C. (2014) [Why Good Hackers Make Good Citizens](https://www.youtube.com/watch?v=QeAGu40vZzI).
-3. Goldstein, B., Dyson, L. (2013) [Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org).
-4. Barry, L. (2016) [vTaiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy](https://civichall.org/civicist/vtaiwan-democracy-frontier). *Civicist*.
-5. Swartz, A. (2008) [Open Access Guerrilla Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt).
-
+- **Notebooks de los tutoriales sobre Python del canal de Youtube.** - _jltabara_ - [Python](https://github.com/jltabara/Python).
+   
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
 Made with ❤️ by [AAAIMX](https://github.com/aaaimx) 😊
